@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="package" method="upgrade">
+	<name>xmr-pay for VirtueMart (Monero)</name>
+	<packagename>xmrpay_virtuemart</packagename>
+	<version>1.0.0</version>
+	<creationDate>June 2026</creationDate>
+	<author>SlowBearDigger</author>
+	<authorEmail>slowbeardigger@proton.me</authorEmail>
+	<authorUrl>https://github.com/SlowBearDigger</authorUrl>
+	<copyright>(C) 2026 SlowBearDigger. MIT licensed.</copyright>
+	<license>https://opensource.org/licenses/MIT MIT</license>
+	<description>Non-custodial Monero payments for VirtueMart: the payment method plus the settlement scheduler task. View key only — no monero-wallet-rpc, no daemon.</description>
+	<files folder="packages">
+		<file type="plugin" id="xmrpay" group="vmpayment">plg_vmpayment_xmrpay.zip</file>
+		<file type="plugin" id="xmrpaysettlevm" group="task">plg_task_xmrpaysettle_vm.zip</file>
+	</files>
+</extension>
