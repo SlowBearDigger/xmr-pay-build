@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>xmr-pay for VirtueMart (Monero)</name>
 	<packagename>xmrpay_virtuemart</packagename>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<creationDate>June 2026</creationDate>
 	<author>SlowBearDigger</author>
 	<authorEmail>slowbeardigger@proton.me</authorEmail>
