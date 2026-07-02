@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>xmr-pay for HikaShop (Monero)</name>
 	<packagename>xmrpay_hikashop</packagename>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<creationDate>June 2026</creationDate>
 	<author>SlowBearDigger</author>
 	<authorEmail>slowbeardigger@proton.me</authorEmail>
